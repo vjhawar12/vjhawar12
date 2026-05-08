@@ -1,21 +1,23 @@
-# Hey, I'm Vedant 👋
+# Hi, I'm Vedant 👋
 
-I'm an embedded systems student building firmware-heavy projects in robotics, sensing, and hardware/software integration.
+I'm an computer engineering student @ McMaster University interested in firmware, robotics, and edge AI. I'm the former software lead of our school's Drones & UAV Team, and now the current co-president. 
 
-I'm most interested in systems where software has to deal with real hardware — microcontrollers, sensors, motors, communication buses, timing constraints, and all the debugging that comes with making things work in the real world.
+I'm currently working as an Embedded Firmware Engineer (Contract), building ESP32-based Ethernet sensor nodes for a real deployed monitoring system.
+
+Most of the projects I enjoy sit at the boundary of hardware and software — microcontrollers, sensors, communication interfaces, real-time behavior, and the kind of debugging where timing and signals actually matter.
 
 ## What I work on
-- Firmware and embedded development with **ESP32** and **STM32**
-- Sensor integration and communication protocols
-- Real-time systems and low-level debugging
-- Robotics, spatial sensing, and edge AI-oriented systems
+- Embedded and firmware development with **ESP32** and **STM32**
+- Real-time systems and low-level hardware/software integration
+- Sensor interfacing, communication protocols, and system bring-up
+- Robotics and perception pipelines with an interest in **edge AI**
 
-## Highlighted projects
-- **ESP32 Ethernet Sensor Node** — networked embedded firmware with Ethernet connectivity, device communication, and OTA updates
-- **3D Spatial Mapping with ToF** — microcontroller-driven mapping system combining ToF sensing, motor control, serial streaming, and 3D visualization
+## Featured projects
+- **ESP32 Ethernet Sensor Node** — firmware in C using ESP-IDF for networked sensor nodes with Ethernet, device communication, and OTA updates
+- **3D Spatial Mapping with ToF** — microcontroller-based spatial mapping system using a time-of-flight sensor, stepper motor, serial data capture, and 3D visualization
 
-## Tech stack
-`C` `C++` `Python` `ESP-IDF` `FreeRTOS` `ESP32` `STM32` `UART` `SPI` `I2C` `Linux`
+## Tech
+`C` `C++` `Python` `ESP-IDF` `FreeRTOS` `ESP32` `STM32` `UART` `SPI` `I2C` `GPIO` `Linux` `Git`
 
-## Looking toward
-Firmware / embedded roles, robotics systems, and edge AI applications that live close to real hardware.
+## Opportunities
+I'm currently looking for firmware, embedded, robotics, and edge AI internship opportunities where I can keep building close to the hardware.
