@@ -4,7 +4,7 @@ I'm a Computer Engineering student at McMaster University interested in firmware
 
 I'm currently working as an Embedded Firmware Engineer (Contract), building ESP32-based Ethernet sensor nodes for a real deployed monitoring system.
 
-Most of the projects I enjoy sit at the boundary of hardware and software — microcontrollers, sensors, communication interfaces, real-time behavior, and the kind of debugging where timing and signals actually matter.
+Most of the projects I enjoy sit at the boundary of hardware and software: microcontrollers, sensors, communication interfaces, real-time behavior, and the kind of debugging where timing and signals actually matter.
 
 ## What I work on
 - Embedded and firmware development with **ESP32** and **STM32**
