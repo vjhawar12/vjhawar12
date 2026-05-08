@@ -1,6 +1,6 @@
 # Hi, I'm Vedant 👋
 
-I'm an computer engineering student @ McMaster University interested in firmware, robotics, and edge AI. I'm the former software lead of our school's Drones & UAV Team, and now the current co-president. 
+I'm a Computer Engineering student at McMaster University interested in firmware, robotics, and edge AI. I previously served as Software Lead for McMaster's Drones & UAV Team, and I now serve as Co-President.
 
 I'm currently working as an Embedded Firmware Engineer (Contract), building ESP32-based Ethernet sensor nodes for a real deployed monitoring system.
 
