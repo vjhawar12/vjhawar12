@@ -14,7 +14,8 @@ Most of the projects I enjoy sit at the boundary of hardware and software: micro
 
 ## Featured projects
 - **ESP32 Ethernet Sensor Node** — firmware in C using ESP-IDF for networked sensor nodes with Ethernet, device communication, and OTA updates
-- **3D Spatial Mapping with ToF** — microcontroller-based spatial mapping system using a time-of-flight sensor, stepper motor, serial data capture, and 3D visualization
+- **3D Spatial Mapping with ToF** — microcontroller-based spatial mapping system (Python/C) using a time-of-flight sensor, stepper motor, serial data capture, and 3D visualization
+- **STM32 RTOS Drivers** — Register-level STM32 firmware in C with reusable SPI/ADXL345 drivers, FreeRTOS task design, queues, timers, and synchronization primitives.
 
 ## Tech
 `C` `C++` `Python` `ESP-IDF` `FreeRTOS` `ESP32` `STM32` `UART` `SPI` `I2C` `GPIO` `Linux` `Git`
