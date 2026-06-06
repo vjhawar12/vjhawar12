@@ -19,7 +19,7 @@ Most of the projects I enjoy sit at the boundary of hardware and software: micro
 - **STM32 RTOS Drivers** — Register-level STM32 firmware in C with multiple reusable drivers like SPI/ADXL345, and I2C/VL6180, FreeRTOS task design, queues, timers, and synchronization primitives.
 
 ## Tech
-`C` `C++` `Python` `ESP-IDF` `FreeRTOS` `ESP32` `STM32` `UART` `SPI` `I2C` `GPIO` `Linux` `Git`
+`C` `C++` `Python` `SystemVerilog` `ESP-IDF` `FreeRTOS` `ESP32` `STM32` `UART` `SPI` `I2C` `GPIO` `Linux` `Git` 
 
 ## Opportunities
 I'm currently looking for firmware, embedded, robotics, and edge AI internship opportunities where I can keep building close to the hardware.
