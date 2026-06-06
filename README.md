@@ -2,7 +2,7 @@
 
 I'm a Computer Engineering student at McMaster University interested in **firmware, robotics, and edge AI**. I previously served as **Software Lead** for McMaster's Drones & UAV Team, and I now serve as **Co-President**.
 
-I'm currently working as an **Embedded Firmware Engineer** as part of a contract to build ESP32-based Ethernet sensor nodes for a 3000+ unit seniors village.
+I'm currently interning as an **Embedded Firmware Engineer** as part of a contract to build ESP32-based Ethernet sensor nodes for a 3000+ unit seniors village.
 
 Most of the projects I enjoy sit at the boundary of hardware and software: microcontrollers, sensors, communication interfaces, real-time behavior, and the kind of debugging where timing and signals actually matter.
 
