@@ -9,6 +9,7 @@ Most of the projects I enjoy sit at the boundary of hardware and software: micro
 ## What I work on
 - Embedded and firmware development with **ESP32** and **STM32**
 - Real-time systems and low-level hardware/software integration
+- FPGA and RTL applications
 - Sensor interfacing, communication protocols, and system bring-up
 - Robotics and perception pipelines with an interest in **edge AI**
 
