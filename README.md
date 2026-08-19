@@ -2,7 +2,7 @@
 
 I'm a Computer Engineering student at McMaster University focused on **embedded firmware, PCB design, and robotics**. I enjoy building systems where software directly interacts with electronics, sensors, motors, and communication hardware.
 
-I'm an incoming **Embedded Software Intern at The Radiation Team** in Boulder, Colorado, for Fall 2026 and an incoming **Electrical Engineer Intern at Second Order Effects** in Redmond, Washington, for Winter 2026. There I will contribute to embedded systems and hardware integration for aerospace and high-reliability applications.
+I'm an incoming **Embedded Software Intern at The Radiation Team** in Boulder, Colorado, for Fall 2026 and an incoming **Electrical Engineer Intern at Second Order Effects** in Redmond, Washington, for Winter 2027. There I will contribute to embedded systems and hardware integration for aerospace and high-reliability applications.
 
 Previously, I interned as an **Embedded Software Engineer at Taylor Systems**, where I developed ESP32 firmware and designed a custom Ethernet-connected sensor-node PCB for a system intended to scale to more than 3,000 devices.
 
