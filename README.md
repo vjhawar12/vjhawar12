@@ -2,7 +2,7 @@
 
 I'm a Computer Engineering student at McMaster University focused on **embedded firmware, low-level systems, hardware integration, and robotics**. I enjoy building systems where software has to understand the hardware underneath it — microcontrollers, communication interfaces, sensors, custom electronics, and real-time constraints.
 
-I'm currently an **Embedded Software Engineer Intern at The Radiation Team** in Boulder, Colorado, where I work on embedded networking and hardware/software integration for aerospace systems. In Winter 2027, I'll join **Second Order Effects** in Redmond, Washington, as an **Electrical Engineer Intern**, working across embedded hardware, firmware, prototyping, and board-level integration.
+I'm currently an **Embedded Software Engineer Intern at The Radiation Team** in Boulder, Colorado, where I work on embedded networking and hardware/software integration for aerospace systems like **satellites**. In Winter 2027, I'll join **Second Order Effects** in Redmond, Washington, as an **Electrical Engineer Intern**, working across embedded hardware, firmware, prototyping, and board-level integration.
 
 Previously, I interned as an **Embedded Firmware Engineer at Taylor Systems Engineering**, where I developed ESP32 C/FreeRTOS firmware and designed a custom Ethernet-connected sensor-node PCB for a system intended to scale to more than 3,000 deployed nodes.
 
