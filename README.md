@@ -29,7 +29,7 @@ Most of my projects sit at the boundary between hardware and software: low-level
 
 - **STM32 RTOS Drivers** — Developed register-level STM32 firmware in C with reusable SPI and I²C sensor drivers, FreeRTOS tasks, queues, timers, mutexes, watchdog handling, and layered unit, integration, and system testing
 
-- **3D Spatial Mapping with ToF** — Built an embedded spatial-mapping system using an MSP432, VL53L1X Time-of-Flight sensor, stepper motor, I²C acquisition, UART streaming, and Python/Open3D visualization
+- **USB Diagnostic & Recovery Tool** — Developing an embedded diagnostic and recovery platform with a USB device interface, TinyUSB-based firmware, command/state handling, target probing, and Linux host tooling for device status, fault capture, and recovery workflows.
 
 ## Tech
 
