@@ -1,39 +1,40 @@
 # Hi, I'm Vedant 👋
 
-I'm a Computer Engineering student at McMaster University focused on **embedded firmware, PCB design, and robotics**. I enjoy building systems where software directly interacts with electronics, sensors, motors, and communication hardware.
+I'm a Computer Engineering student at McMaster University focused on **embedded firmware, low-level systems, hardware integration, and robotics**. I enjoy building systems where software has to understand the hardware underneath it — microcontrollers, communication interfaces, sensors, custom electronics, and real-time constraints.
 
-I'm an incoming **Embedded Software Intern at The Radiation Team** in Boulder, Colorado, for Fall 2026 and an incoming **Electrical Engineer Intern at Second Order Effects** in Redmond, Washington, for Winter 2027. There I will contribute to embedded systems and hardware integration for aerospace and high-reliability applications.
+I'm currently an **Embedded Software Engineer Intern at The Radiation Team** in Boulder, Colorado, where I work on embedded networking and hardware/software integration for aerospace systems. In Winter 2027, I'll join **Second Order Effects** in Redmond, Washington, as an **Electrical Engineer Intern**, working across embedded hardware, firmware, prototyping, and board-level integration.
 
-Previously, I interned as an **Embedded Software Engineer at Taylor Systems**, where I developed ESP32 firmware and designed a custom Ethernet-connected sensor-node PCB for a system intended to scale to more than 3,000 devices.
+Previously, I interned as an **Embedded Firmware Engineer at Taylor Systems Engineering**, where I developed ESP32 C/FreeRTOS firmware and designed a custom Ethernet-connected sensor-node PCB for a system intended to scale to more than 3,000 deployed nodes.
 
-At McMaster, I serve as **Co-President of the Aerial Drones & Robotics Team**, where I previously led software development for onboard perception, payload-control, and autonomous drone systems.
+At McMaster, I serve as **Co-President of the Aerial Drones & Robotics Team**. My work with the team has included autonomous flight supervision, MAVLink integration, RGB-D perception, payload-control firmware, and companion-computer software for an autonomous UAV.
 
-Most of my projects sit at the boundary of hardware and software: microcontrollers, custom PCBs, real-time firmware, motors, sensors, communication interfaces, and the kind of debugging where timing, signals, and power integrity matter.
+Most of my projects sit at the boundary between hardware and software: low-level C/C++, microcontrollers, real-time firmware, networking, custom PCBs, sensors, motors, Linux-based companion computers, and the kind of debugging where registers, timing, signals, and power all matter.
 
 ## What I work on
 
-- Embedded firmware development with **ESP32**, **STM32**, and ARM Cortex-M microcontrollers
-- Schematic capture, component selection, PCB layout, and hardware bring-up using **KiCad**
-- Real-time systems using **FreeRTOS**, interrupts, queues, timers, and synchronization primitives
-- Robotics systems involving motors, sensors, flight controllers, and onboard computers
-- Hardware interfaces including **Ethernet, UART, SPI, I²C, ADC, GPIO, and PWM**
-- FPGA and RTL design using **SystemVerilog**
-- Bench debugging with oscilloscopes, logic analyzers, multimeters, JTAG, and serial logs
+- Embedded firmware in **C/C++** on STM32, ESP32, and ARM Cortex-M microcontrollers
+- Register-level programming, device interfaces, interrupts, timers, and hardware bring-up
+- Real-time systems using **FreeRTOS**, tasks, queues, semaphores, event groups, and watchdogs
+- Embedded networking using **Ethernet, TCP/IP, UDP, SPI, UART, I²C, and GPIO**
+- Schematic capture, component selection, PCB layout, and board bring-up using **KiCad**
+- Robotics and UAV systems using flight controllers, MAVLink, sensors, actuators, and companion computers
+- FPGA and RTL development using **SystemVerilog**
+- Linux, Bash, CMake, Git, and hardware/software debugging with oscilloscopes, logic analyzers, JTAG, and SWD
 
 ## Featured projects
 
-- **ESP32 Ethernet Sensor Node** — Designed firmware and a custom four-layer PCB for an Ethernet-connected environmental sensor node featuring an ESP32, LAN8720A PHY, sensor interfaces, USB programming, power regulation, OTA updates, watchdog recovery, and remote diagnostics
+- **Drone Onboard Systems** — Developed onboard software for an autonomous UAV, including a `pymavlink` flight supervisor for guided flight and fault handling, an RGB-D perception pipeline using OpenCV/YOLO/RANSAC, Linux companion-computer services, and STM32 payload-control firmware
 
-- **3D Spatial Mapping with ToF** — Built an embedded spatial-mapping system using an MSP432, VL53L1X Time-of-Flight sensor, stepper motor, I²C acquisition, UART streaming, and Python/Open3D visualization; also developed a conceptual discrete H-bridge schematic and four-layer PCB alternative for bipolar stepper control
+- **ESP32 Ethernet Sensor Node** — Developed ESP32 C/FreeRTOS firmware and a custom four-layer Ethernet-connected sensor-node PCB featuring LAN8720 RMII networking, sensor interfaces, USB programming, power regulation, OTA updates, watchdog recovery, and remote diagnostics
 
 - **STM32 RTOS Drivers** — Developed register-level STM32 firmware in C with reusable SPI and I²C sensor drivers, FreeRTOS tasks, queues, timers, mutexes, watchdog handling, and layered unit, integration, and system testing
 
-- **Drone Onboard Systems** — Developed and tested embedded software for drone payload release, sensor integration, autonomous mission support, fault handling, and communication between flight-control and companion-computer systems
+- **3D Spatial Mapping with ToF** — Built an embedded spatial-mapping system using an MSP432, VL53L1X Time-of-Flight sensor, stepper motor, I²C acquisition, UART streaming, and Python/Open3D visualization
 
 ## Tech
 
-`C` `C++` `Python` `SystemVerilog` `ESP-IDF` `FreeRTOS` `ESP32` `STM32` `MSP432` `KiCad` `Ethernet` `UART` `SPI` `I²C` `GPIO` `PWM` `JTAG` `Linux` `Git` `GitHub Actions`
+`C` `C++` `Python` `SystemVerilog` `FreeRTOS` `ESP-IDF` `STM32` `ESP32` `Linux` `Bash` `CMake` `KiCad` `Ethernet` `TCP/IP` `UDP` `SPI` `I²C` `UART` `USB` `GPIO` `JTAG` `SWD` `Git` `GitHub Actions`
 
 ## Interests
 
-I'm especially interested in **embedded firmware, electronics and PCB design, robotics, aerospace systems, and hardware-software integration**.
+I'm especially interested in **embedded firmware, low-level systems, computer architecture, FPGA/RTL, embedded networking, robotics, aerospace systems, and hardware-software integration**.
